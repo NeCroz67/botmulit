@@ -5,7 +5,7 @@
 	"adminrolename": "Modo",
 	"prefix": "'",
 	"rvotes": "99",
-	"token": process.env.TOKEN,
+	"token": "process.env.TOKEN",
 	"red": "#b70000",
 	"orange": "#ff6a00",
 	"green": "#00ff26",
